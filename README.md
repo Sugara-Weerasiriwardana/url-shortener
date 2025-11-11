@@ -2,6 +2,9 @@
 
 A simple RESTful API built with **FastAPI** and **SQLite** that lets you shorten long URLs, track click stats, and manage links.
 
+🌍 **Live Demo:**  
+[https://url-shortener-1-bqsr.onrender.com/](https://url-shortener-1-bqsr.onrender.com/)
+
 ## 🚀 Features
 - Create short URLs
 - Redirect to original links
